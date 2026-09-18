@@ -1,4 +1,4 @@
-# PackMe v4
+# PackMe v5
 
 Mobile-first PWA for smart travel packing checklists.
 
